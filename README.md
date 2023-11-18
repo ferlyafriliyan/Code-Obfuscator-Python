@@ -75,7 +75,7 @@ As of right now, the biggest impact is the inefficiency of encoding strings. For
    REMOVE_COMMENTS = True
    ```
 * **Is there a license?**  
-[Apache License 2.0](https://choosealicense.com/licenses/gpl-3.0/).
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
 
 ## Credits
 * Ferly Afriliyan - Code  
